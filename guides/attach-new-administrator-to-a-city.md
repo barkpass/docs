@@ -1,5 +1,5 @@
 ---
-title: Attach New Administrator To A City
+title: Attach New Administrator To City
 ---
 # Attach new administrator to city
 
