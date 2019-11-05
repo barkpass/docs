@@ -21,7 +21,7 @@ Once the box has a little green check mark in it, go above the application list 
 
 Click the little arrow in the box and you should see a drop-down list with options to approve, reject, or to process an in-person application. Choose the option that says "Approve Application".
 
-![](/images/uploads/screen-shot-2019-11-05-at-1.38.48-pm.png)
+![](/images/uploads/screen-shot-2019-11-05-at-2.20.16-pm.png)
 
 After you have selected approve, press the green arrow right next to it to finish approving the application.
 
