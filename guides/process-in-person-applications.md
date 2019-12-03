@@ -66,9 +66,9 @@ Select the Document Type that represents this document. **If there is more than 
 Pets may have multiple documents:
 
 * _If this is the ONLY document for this pet:_\
-  Continue to Step 6.
+  Continue to **Step 6**.
 * _If there are ADDITIONAL documents for this pet:_\
-  On the Document detail screen, click the **Pet's name in green** to be directed to the Pet detail page. Repeat Steps 4 and 5.
+  On the Document detail screen, click the **Pet's name in green** to be directed to the Pet detail page. Repeat **Steps 4 and 5**.
 
 ## 6. Return to the Application
 
