@@ -1,12 +1,6 @@
 ---
 title: Process In-Person Applications
 ---
-
-
-
-
-
-
 # Process In-Person Applications
 
 To process an application for in-person transactions, complete the following steps.
@@ -80,4 +74,27 @@ Pets may have multiple documents:
 
 Once all documents for the first pet have been added, find the Application you created in Step 2 by clicking the **Applications** tab on the left. Then, click the **Eye icon** for the application you created to be directed to the Application detail page.
 
-![]()
+![Application Index page](/images/uploads/screen-shot-2019-12-03-at-8.02.44-am.png)
+
+* _If there is ONLY ONE pet:_\
+  Continue to **Step 7**.
+* _If you need to add ADDITIONAL pets:_\
+  Return to **Step 3** and complete the steps up to this point.
+
+## 7. Finalize Application and Accept Payment
+
+At the top of the Application detail page, click the **Select Action** dropdown and choose **Process In-Person Application**. Click the green **Play button**.
+
+![Process in-person application dropdown](/images/uploads/screen-shot-2019-12-03-at-8.05.32-am.png)
+
+Select the payment method, and fill out the form:
+
+![Process payment form](/images/uploads/screen-shot-2019-12-03-at-8.08.19-am.png)
+
+When ready, click **Approve Application**.
+
+That's it! As a result of this:
+
+* The application's status will be automatically changed to **Approved**.
+* Passes will be automatically generated for each pet.
+* The user will NOT receive an email notification like they would have online (since you may provide additional instructions in the office).
