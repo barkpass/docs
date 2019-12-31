@@ -3,7 +3,9 @@ title: Attach New Administrator To City
 ---
 # Attach new administrator to city
 
-Log into your administrator account. Go to https://app.barkpass.com/admin/login and type in your credentials. Once at the dashboard, on the left side, click "Cities"
+**Note**: If the administrator does not yet have a Barkpass account, you'll want to create one for them under "Users > Create User." Then proceed with the instructions below.
+
+Log into your administrator account. Once at the dashboard, on the left side, click "Cities"
 
 ![](/images/uploads/screen-shot-2019-11-01-at-2.17.36-pm.png)
 
@@ -18,3 +20,5 @@ Once there, scroll down to the section marked "Administrators" and go to either 
 Once there, you can select whichever administrator you wish and add them to the city.
 
 ![](/images/uploads/screen-shot-2019-11-01-at-2.33.24-pm.png)
+
+**Note**: If you cannot find the user, it's possible they already have a Barkpass account but are not yet connected to the current city. In this case, contact Barkpass support: support@barkpass.com
