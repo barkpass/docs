@@ -11,7 +11,11 @@ In the top right corner, click "Create Message"
 
 ![](/images/uploads/create-messages.png)
 
-Type your message and choose your recipients from that screen. When finished, click the "Create Message" at the bottom.
+Type your message and choose your recipients from that screen. 
+
+If you'd like to prevent sending the message to certain users, add their email addresses in a comma-separated list to the **Excluded Recipients** section.
+
+When finished, click the "Create Message" at the bottom.
 
 ![](/images/uploads/create-message.png)
 
