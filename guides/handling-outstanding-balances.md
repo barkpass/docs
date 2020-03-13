@@ -1,5 +1,5 @@
 ---
-title: Handling Outstanding Balances
+title: Handle Outstanding Balances
 ---
 To handle an outstanding balance for a citizen with a pending application, first log into the administrator account for your city. Once logged in, navigate to the application section on the left side of the screen.
 
