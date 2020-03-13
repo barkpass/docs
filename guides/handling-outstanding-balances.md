@@ -21,7 +21,7 @@ Click on the little green play button to run the action.
 
 ![Action button to select](/images/uploads/hob5.png)
 
-You'll see a modal with the option to select a payment type and the corresponding information.
+You'll see a modal with the option to select a payment type and enter the corresponding information.
 
 ![Payment modal](/images/uploads/hob6.png)
 
