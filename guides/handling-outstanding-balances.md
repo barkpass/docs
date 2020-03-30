@@ -1,6 +1,10 @@
 ---
 title: Handle Outstanding Balances
 ---
+If a user owes additional money on an application, and you have NOT yet approved the application, you can reject the application to inform the user that they owe additional money. The user will be able to make the payment online.
+
+**Note**: Has the application already been approved? You need to generate an invoice instead. Read about [Generating an Invoice for an Outstanding Balance](/guides/generate-an-invoice-for-an-outstanding-balance.html).
+
 To handle an outstanding balance for a citizen with a pending application, first log into the administrator account for your city. Once logged in, navigate to the application section on the left side of the screen.
 
 ![Applications selection within Barkpass](/images/uploads/hob1.png)
