@@ -1,6 +1,8 @@
 ---
 title: Handle Outstanding Balances
 ---
+# Handle Outstanding Balances
+
 If a user owes additional money on an application, and you have NOT yet approved the application, you can reject the application to inform the user that they owe additional money. The user will be able to make the payment online.
 
 **Note**: Has the application already been approved? You need to generate an invoice instead. Read about [Generating an Invoice for an Outstanding Balance](/guides/generate-an-invoice-for-an-outstanding-balance.html).
