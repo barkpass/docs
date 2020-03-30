@@ -25,3 +25,17 @@ After the user pays the invoice, a receipt will be emailed to them. They can als
 
 **Did you know?**\
 Users with unpaid invoices will NOT receive Messages sent from the city.
+
+## Process Invoice In-Person
+
+If a user wants to pay an invoice over the phone or in person, you can process an invoice in-person through the admin interface.
+
+First, find the invoice by clicking **Invoices** in the left panel, and clicking the Eye icon to view the invoice that needs to be processed.
+
+![Invoice listing](/images/uploads/screen-shot-2020-03-30-at-3.23.47-pm.png)
+
+Next, in the dropdown in the upper right, select **Process Invoice In-Person**.
+
+![Process Invoice In-Person dropdown menu](/images/uploads/screen-shot-2020-03-30-at-3.59.18-pm.png)
+
+Select the form of payment (Credit Card, Check, Cash) and fill in the details. If a credit card is used, remember to click the first green button to authorize the payment BEFORE clicking Process Invoice.
