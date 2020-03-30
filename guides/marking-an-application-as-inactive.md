@@ -14,7 +14,7 @@ Reasons for marking an application inactive might include:
 
 The following reasons should **NOT** be used to mark an application as inactive:
 
-* The user has an unpaid invoice**.** Applications with unpaid invoices are automatically filtered out of the recipients list for Messages sent by the city, and are automatically updated once an invoice is paid in full.
+* The user has an unpaid invoice. Applications with unpaid invoices are automatically filtered out of the recipients list for Messages sent by the city, and are automatically updated once an invoice is paid in full.
 
 To mark an application as inactive, visit the application in the admin interface and select Mark Inactive from the dropdown in the upper right:
 
