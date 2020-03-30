@@ -1,6 +1,8 @@
 ---
-title: Marking an Application as Inactive
+title: Mark an Application as Inactive
 ---
+# Mark an Application as Inactive
+
 Occasionally, an approved application will need to be marked as **inactive**. 
 
 Reasons for marking an application inactive might include:
