@@ -1,18 +1,20 @@
 ---
 title: Message Permit Holders
 ---
-Messages are a way to communicate with your pass holders directly in Barkpass. They are sent using the Barkpass email service, meaning you don't have to worry about setting up an email list in-house.
+# Message Permit Holders
+
+Messages are a way to communicate with your permit holders directly in Barkpass. They are sent using the Barkpass email service, meaning you don't have to worry about setting up an email list in-house.
 
 In creating a message, you'll be able to select a **Form** (e.g. 2020 Dog Park) which represents a group of **Applications** — and, by extension, a group of **Users**.
 
 Messages adhere to this criteria for generating recipient lists:
 
-- Include all **approved applications** for the selected form
-- Include any additional recipients specified in the Message
-- *Exclude* any applications marked as **inactive**
-- *Exclude* any applications with **unpaid invoices**
-- *Exclude* any excluded recipients explicitly listed in the Message
-- *Exclude* any users who were created by administrative staff and did NOT have an email address initially added to their account
+* Include all **approved applications** for the selected form
+* Include any additional recipients specified in the Message
+* *Exclude* any applications marked as **inactive**
+* *Exclude* any applications with **unpaid invoices**
+* *Exclude* any excluded recipients explicitly listed in the Message
+* *Exclude* any users who were created by administrative staff and did NOT have an email address initially added to their account
 
 ## Create Message
 
