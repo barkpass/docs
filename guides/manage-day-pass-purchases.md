@@ -2,6 +2,8 @@
 title: Manage Day Pass Purchases
 thumbnail: /images/uploads/screen-shot-2019-10-31-at-7.30.44-am.png
 ---
+# Manage Day Pass Purchases
+
 Day Passes can be enabled or disabled at the City level.
 
 ## Enable Day Pass Purchases
