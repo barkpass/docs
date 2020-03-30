@@ -3,7 +3,7 @@ title: Generate an Invoice for an Outstanding Balance
 ---
 If an application has **already been approved**, but the user has an outstanding balance (e.g. they entered an invalid address), you may generate an invoice for the outstanding amount.
 
-**Note**: Is the application still pending? You do not need to generate an invoice. Read about [Handling Outstanding Balances](https://docs.barkpass.com/guides/handling-outstanding-balances.html) instead.
+**Note**: Is the application still pending? You do not need to generate an invoice. Read about [Handling Outstanding Balances](/guides/handling-outstanding-balances.html) instead.
 
 Visit the application with an outstanding balance in the admin interface. From the dropdown in the upper right, select **Generate Invoice**.
 
