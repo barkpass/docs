@@ -7,14 +7,19 @@ Messages are a way to communicate with your permit holders directly in Barkpass.
 
 In creating a message, you'll be able to select a **Form** (e.g. 2020 Dog Park) which represents a group of **Applications** — and, by extension, a group of **Users**.
 
-Messages adhere to this criteria for generating recipient lists:
+## Message Recipients
 
-* Include all **approved applications** for the selected form
-* Include any additional recipients specified in the Message
-* *Exclude* any applications marked as **inactive**
-* *Exclude* any applications with **unpaid invoices**
-* *Exclude* any excluded recipients explicitly listed in the Message
-* *Exclude* any users who were created by administrative staff and did NOT have an email address initially added to their account
+::: tip Included Recipients
+* all **approved applications** for the selected form
+* any additional recipients specified in the Message
+:::
+
+::: danger Excluded Recipients
+* any applications marked as **inactive**
+* any applications with **unpaid invoices**
+* any excluded recipients explicitly listed in the Message
+* any users who were created by administrative staff and did NOT have an email address initially added to their account
+:::
 
 ## Create Message
 
@@ -26,7 +31,7 @@ In the top right corner, click "Create Message"
 
 ![Create message button](/images/uploads/create-messages.png)
 
-Type your message and choose your recipients from that screen. 
+Type your message and choose your recipients from that screen.
 
 If you'd like to prevent sending the message to certain users, add their email addresses in a comma-separated list to the **Excluded Recipients** section.
 
