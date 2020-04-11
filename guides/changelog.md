@@ -9,6 +9,7 @@ title: Changelog
 - Improved offline application processing, reducing total steps required from seven to three.
 - Added link to **View Application** from application detail screen
 - Changed all references of "in-person" to "offline" to properly cover telephone transactions in addition to in-person transactions.
+- Added a "Send Receipt" option to the offline application processing to allow email receipts to be sent to users paying over the phone
 
 ### March 30, 2020
 
