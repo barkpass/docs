@@ -6,10 +6,10 @@ title: Changelog
 
 ### April 13, 2020
 
-- Improved offline application processing, reducing total steps required from seven to three.
-- Added link to **View Application** from application detail screen
+- Improved offline application processing.
+- Added link to **View Application** from application detail screen.
 - Changed all references of "in-person" to "offline" to properly cover telephone transactions in addition to in-person transactions.
-- Added a "Send Receipt" option to the offline application processing to allow email receipts to be sent to users paying over the phone
+- Added a "Send Receipt" option to the offline application processing form to allow email receipts to be sent to users paying over the phone.
 
 ### March 30, 2020
 
@@ -18,8 +18,8 @@ title: Changelog
 
 ### March 17, 2020
 
-- Updated Messages to be archived rather than deleted for historical reference purpose
-- Added a new **Duplicate Message** action to be able to use an existing message as a starting point
+- Updated Messages to be archived rather than deleted for historical reference purposes.
+- Added a new **Duplicate Message** action to be able to use an existing message as a starting point.
 
 ### March 6, 2020
 
