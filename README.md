@@ -1,7 +1,1 @@
-# Barkpass Docs
-
-Get started by clicking on a link to the left.
-
-<ClientOnly>
-  <CheckAuth />
-</ClientOnly>
+<meta http-equiv="refresh" content="0;url=/guides/faq/" />

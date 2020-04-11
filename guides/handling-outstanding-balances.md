@@ -25,7 +25,7 @@ At this point, you can **Reject** the application, and let the user know that th
 
 Once the user pays the outstanding balance online, their application status will return to **Pending**, where it can be approved when ready.
 
-## Settle Outstanding Balance In-Person
+## Settle Outstanding Balance In-Person/Offline
 
 If the user wishes to pay their outstanding balance in-person or over the phone, you can do so through the admin interface.
 
