@@ -1,100 +1,100 @@
 ---
-title: Process In-Person Applications
+title: Process Offline Applications
 ---
-# Process In-Person Applications
+# Process Offline Applications
 
-To process an application for in-person transactions, complete the following steps.
+To process an application for in-person or over the phone transactions, complete the following steps:
 
-## 1. Create the user
-
-_If the person already has a Barkpass account, skip to Step 2_.
-
-1. Visit the **Users** tab on the left.
-2. Click on the green **Create User** button.
-3. Complete the form with the user's information, and click the green **Create User** button to submit.
-
-![User form](/images/uploads/screen-shot-2019-12-03-at-7.37.34-am.png)
-
-**Note**: If the user does not use email, leave the Email and Password fields empty, and check the **No Email** box. This will generate a randomized email address for the user and ensure no email notifications are sent to them. If the user wants to set up a Barkpass account in the future, you can simply update their email address.
-
-## 2. Start an Application For the User
+## 1. Create an application
 
 1. Visit the **Applications** tab on the left.
-2. On the right, click **Create Application**.
-3. Select the User you just created in Step 1, and the Form for which they'd like to apply.
-4. Click **Create Application** when finished.
+1. On the right, click **Create Application**.
+1. Select the User by searching for their name or email. If the user does not yet exist, click **Create** to the right of the user box. This allows you to create a new user in a pop-up without leaving the page.
 
-![Create application form](/images/uploads/screen-shot-2019-12-03-at-7.41.57-am.png)
+![Application creation form](/images/uploads/application-creation.png)
 
-## 3. Add Pets to the Application
+::: tip
+If the user does not use email, leave the Email and Password fields empty, and check the **No Email** box. This will generate a randomized email address for the user and ensure no email notifications are sent to them. If the user wants to set up a Barkpass account in the future, you can simply update their email address.
+:::
 
-After creating the Application, you should have arrived on the Application detail page. Scroll down and find the **Pets** section. Click **Create Pet**.
+4. Select the Form for which they'd like to apply.
+5. Click **Create Application** when finished.
 
-![Application Detail screen](/images/uploads/screen-shot-2019-12-03-at-7.44.29-am.png)
+## 2A. Add Pets and Documents to the Application (New Pets Only)
 
-Fill out the Pet form. Remember to select the correct User at the bottom as the pet's owner.
+If the user is new to the system, you can add pets and documents to the application using a action from the top-right dropdown called **Add Pets and Documents**.
 
-![Pet form](/images/uploads/screen-shot-2019-12-03-at-7.45.44-am.png)
+::: warning Users with existing pets
+If the user has already created an application (for a prior year, for example), all of their pets will be **transferred automatically** when starting a new application. Be sure to double-check the pets listed in the newly-created application before adding new pets.
 
-When finished, click **Create Pet** to save.
+If you need to add new documents to existing pets, [skip to Step 2B](#_2b-add-documents-to-existing-pets-existing-pets-only).
+:::
 
-## 4. Add Documents to the Pet
+![Add documents and pets dropdown](/images/uploads/add-documents-and-pets-action.png)
 
-After creating the pet, you should have arrived on the Pet detail page. Scroll down to the **Documents** section, and click **Create Document**.
+Complete the form by adding the pet's information, followed by one or more documents for the pet.
 
-![Document area](/images/uploads/screen-shot-2019-12-03-at-7.49.08-am.png)
+![Pets and documents form](/images/uploads/pets-and-documents-form.png)
 
-Scan and upload the first document the in-person user provides. Give it a descriptive name. Click **Create Document** to save.
+After selecting a file, be sure to add any applicable expiration dates.
 
-![Document creation](/images/uploads/screen-shot-2019-12-03-at-7.50.57-am.png)
+![Pets and documents documents](/images/uploads/pets-and-documents-documents.png)
 
-## 5. Add Document Types to Document
+If you need to add another document, click the **Plus button** on the right side of the document.
 
-After creating the document, you should have arrived on the Document detail page. Scroll down to the **Document Types** section, and click **Attach Document Type**.
+Likewise, if you need to remove a document, click the **Minus button**.
 
-![Document detail screen](/images/uploads/screen-shot-2019-12-03-at-7.53.53-am.png)
+When you're finished adding the pet and its documents, click the **Add Pets and Documents** button. The application should then be refreshed to reflect the new pet, including a total price based on residency or any other rules set for the form.
 
-Select the Document Type that represents this document. **If there is more than one document type**, you will repeat this process shortly. Remember to select a valid Expiration Date.
+## 2B. Add Documents to Existing Pets (Existing Pets Only)
 
-* _If this is the ONLY/FINAL type for this document:_\
-  Click **Attach Document Type**.
-* _If there is ANOTHER type for this document:_\
-  Click **Attach & Attach Another** and repeat this step.
+If the user has already started an application (for a prior year, for example), you may wish to add additional documents for an existing pet.
 
-![Document Type form](/images/uploads/screen-shot-2019-12-03-at-7.55.31-am.png)
+To do so, on the Application screen, scroll down to the Pets section, and click on the **Eye icon** to view the pet that requires new documents.
 
-Pets may have multiple documents:
+![View pet](/images/uploads/view-pet.png)
 
-* _If this is the ONLY document for this pet:_\
-  Continue to **Step 6**.
-* _If there are ADDITIONAL documents for this pet:_\
-  On the Document detail screen, click the **Pet's name in green** to be directed to the Pet detail page. Repeat **Steps 4 and 5**.
+On the pet detail page, select the **Add Documents** action from the top right:
 
-## 6. Return to the Application
+![Add documents action](/images/uploads/pet-add-documents-action.png)
 
-Once all documents for the first pet have been added, find the Application you created in Step 2 by clicking the **Applications** tab on the left. Then, click the **Eye icon** for the application you created to be directed to the Application detail page.
+Add one or more documents. Don't forget to add any applicable expiration dates for each document.
 
-![Application Index page](/images/uploads/screen-shot-2019-12-03-at-8.02.44-am.png)
+![Add documents form](/images/uploads/pet-add-documents-form.png)
 
-* _If there is ONLY ONE pet:_\
-  Continue to **Step 7**.
-* _If you need to add ADDITIONAL pets:_\
-  Return to **Step 3** and complete the steps up to this point.
+If you need to add another document, click the **Plus button** on the right side of the document.
 
-## 7. Finalize Application and Accept Payment
+Likewise, if you need to remove a document, click the **Minus button**.
 
-At the top of the Application detail page, click the **Select Action** dropdown and choose **Process In-Person Application**. Click the green **Play button**.
+When you're finished, click the **Add Documents** button. The pet should then be refreshed to reflect the new document.
 
-![Process in-person application dropdown](/images/uploads/screen-shot-2019-12-03-at-8.05.32-am.png)
+To return to the application, you can click **Applications** in the left menu.
 
-Select the payment method, and fill out the form:
+::: tip
+Don't forget to update the filter in the top right of the Applications list to include **Drafts**, as the latest application you created will not yet be pending (and won't be displayed in the index by default.)
+:::
 
-![Process payment form](/images/uploads/screen-shot-2019-12-03-at-8.08.19-am.png)
+## 3. Process Payment and Approve Application
 
-When ready, click **Approve Application**.
+At the top right of the Application detail page, selec the **Process And Approve Offline Application** action from the dropdown.
+
+![Process offline application dropdown](/images/uploads/process-offline-application.png)
+
+Select the payment method (credit card, check or cash), and fill out the form.
+
+::: warning Authorizing Credit Cards
+Before approving a credit card payment, you MUST first authorize the payment by clicking the first green button. After the card has been authorized, you can then approve the application.
+:::
+
+![Process offline application form](/images/uploads/approve-application-form.png)
+
+::: tip Email Receipts
+By default, a receipt will not be emailed to the user. This is useful in cases where you will be printing a receipt for the user in-person. However, if the transaction is taking place over the phone, you should check the **Send Email** option to ensure a receipt is emailed to the user (along with any access code information).
+:::
+
+When ready, click **Approve Application** to approve the application and process the payment.
 
 That's it! As a result of this:
 
 * The application's status will be automatically changed to **Approved**.
 * Passes will be automatically generated for each pet.
-* The user will NOT receive an email notification like they would have online (since you may provide additional instructions in the office).
