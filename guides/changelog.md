@@ -4,6 +4,8 @@ title: Changelog
 
 # Changelog
 
+This changelog represents updates made to both the administrative side of Barkpass as well as the customer-facing side of Barkpass.
+
 ### April 13, 2020
 
 - Improved offline application processing.
