@@ -11,18 +11,16 @@ Once you are in the application list, find the application that you want to reje
 
 ![](/images/uploads/screen-shot-2019-11-12-at-1.16.50-pm.png)
 
-Once you have found the right application, check the little box on the left of the name.
+Click the **Eye icon** to view the application.
 
-![](/images/uploads/screen-shot-2019-11-05-at-1.23.57-pm.png)
-
-Once a green check mark appears, navigate up above the application list to a little dropdown menu.
-
-![](/images/uploads/screen-shot-2019-11-05-at-1.32.34-pm.png)
-
-Click the little arrow, and select the option to reject application and hit the green play button.
+Select **Reject Application** from the dropdown in the top right.
 
 ![](/images/uploads/screen-shot-2019-11-12-at-1.21.37-pm.png)
+
+Be sure to add a reason for rejecting the application, which will be sent in an email notification to the user and displayed when they load their application in the web browser.
 
 The application should now have a red "rejected" tag on it instead of a pending one, and the application is now rejected.
 
 ![](/images/uploads/screen-shot-2019-11-12-at-1.24.07-pm.png)
+
+When the user makes the required changes, their application will switch back to the "pending" state automatically.
