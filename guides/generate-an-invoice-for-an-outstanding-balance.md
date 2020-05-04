@@ -42,3 +42,15 @@ Next, in the dropdown in the upper right, select **Process Offline Invoice**.
 ![Process Invoice In-Person dropdown menu](/images/uploads/process-offline-invoice.png)
 
 Select the form of payment (Credit Card, Check, Cash) and fill in the details. If a credit card is used, remember to click the first green button to authorize the payment BEFORE clicking Process Invoice.
+
+## View Applications with Paid and Unpaid Invoices
+
+To view applications that have either a paid or unpaid invoice, use the Filter button in the top right and select an option under **With Invoices**:
+
+![Invoice Filter](/images/uploads/application-invoice-filter.png)
+
+## Filter Invoices by Paid Status
+
+To view invoices that are only paid or only unpaid, select the Filter button in the top right and select an option under **Invoice Status**:
+
+![Invoice Filter](/images/uploads/invoice-filter.png)
