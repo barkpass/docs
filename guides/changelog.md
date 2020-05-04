@@ -6,6 +6,11 @@ title: Changelog
 
 This changelog represents updates made to both the administrative side of Barkpass as well as the customer-facing side of Barkpass.
 
+### May 4, 2020
+
+- Added a Notes section to admin interface for Users and Applications.
+- Added new dashboard metrics, including day passes per day and lifetime transaction total.
+
 ### April 21, 2020
 
 - Improved document upload handling, sending new uploads straight to the cloud, to prevent file size errors.
