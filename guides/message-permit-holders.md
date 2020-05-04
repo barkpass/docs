@@ -62,3 +62,11 @@ Then click on the green arrow at the top right
 Then click on "Run Action"
 
 ![Run Action](/images/uploads/run-action.png)
+
+## Duplicate Message
+
+You can duplicate an existing message to be sent again. Select the dropdown from the top right of a message, and choose the **Duplicate Message** option:
+
+![Run Action](/images/uploads/duplicate-message.png)
+
+All message properties, including message content and recipient lists, will be copied to a new draft message.
