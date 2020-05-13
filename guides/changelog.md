@@ -6,6 +6,12 @@ title: Changelog
 
 This changelog represents updates made to both the administrative side of Barkpass as well as the customer-facing side of Barkpass.
 
+### May 13, 2020
+
+- We now always fetch the most current data from the city (including whether day passes are on sale) to ensure the user cannot see it as an option.
+- We now display a notice to the user if they do happen to end up on the Day Pass page via a direct link which replaces the form that would normally be there.
+- Added validation on the checkout process on the server to make sure a user isn't able to purchase a day pass, even if the first two stop-gaps were to fail.
+
 ### May 4, 2020
 
 - Added a Notes section to admin interface for Users and Applications.
