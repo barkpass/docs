@@ -6,6 +6,10 @@ title: Changelog
 
 This changelog represents updates made to both the administrative side of Barkpass as well as the customer-facing side of Barkpass.
 
+### June 15, 2020
+
+- Added the ability to mark pets inactive.
+
 ### May 13, 2020
 
 - We now always fetch the most current data from the city (including whether day passes are on sale) to ensure the user cannot see it as an option.
