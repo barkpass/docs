@@ -63,6 +63,13 @@ module.exports = {
           'update-basic-city-information'
         ])
       },
+      {
+        title: "Pets",
+        collapsable: false,
+        children: prefix('guides', [
+          'manage-pets',
+        ])
+      },
       // ...guides.map(g => `/guides/${g.replace('.md', '')}`)
     ]
   }

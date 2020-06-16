@@ -16,6 +16,7 @@ In creating a message, you'll be able to select a **Form** (e.g. 2020 Dog Park) 
 
 ::: danger Excluded Recipients
 * any applications marked as **inactive**
+* any applications where all the pets are marked as **inactive**
 * any applications with **unpaid invoices**
 * any excluded recipients explicitly listed in the Message
 * any users who were created by administrative staff and did NOT have an email address initially added to their account
